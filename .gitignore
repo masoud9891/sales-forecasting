@@ -1,0 +1,16 @@
+# محیط مجازی
+.venv/
+
+# فایل‌های داده خام و پردازش‌شده
+data/raw/
+data/processed/
+
+# کش‌های پایتون
+__pycache__/
+*.pyc
+
+# فایل‌های Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# تنظیمات محیط
+.env
