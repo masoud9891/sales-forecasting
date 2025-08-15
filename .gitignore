@@ -2,8 +2,8 @@
 .venv/
 
 # فایل‌های داده خام و پردازش‌شده
-#data/raw/
-#data/processed/
+data/raw/
+data/processed/
 
 # کش‌های پایتون
 __pycache__/
